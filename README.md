@@ -6,7 +6,7 @@ MakeYourFood helps you to get recipes from the ingredients you have by just mark
 
 Anyone who wants to use the project just have to  download the entire repo and same to the local disk. To run this project open demo.html file in any browser.
 
-Prequisites - Any text editor(Sublime(recommended))
+Prequisites - Any text editor(Sublime Text recommended)
 
 Authors - Vinit Sonagara and Anirudh Pandey
 
